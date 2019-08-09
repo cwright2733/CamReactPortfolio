@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CamReactPortfolio/static/css/main.2cce8147.chunk.css",
+    "main.js": "/CamReactPortfolio/static/js/main.d9ed891b.chunk.js",
+    "main.js.map": "/CamReactPortfolio/static/js/main.d9ed891b.chunk.js.map",
+    "runtime~main.js": "/CamReactPortfolio/static/js/runtime~main.ae35cbd7.js",
+    "runtime~main.js.map": "/CamReactPortfolio/static/js/runtime~main.ae35cbd7.js.map",
+    "static/js/2.4f057907.chunk.js": "/CamReactPortfolio/static/js/2.4f057907.chunk.js",
+    "static/js/2.4f057907.chunk.js.map": "/CamReactPortfolio/static/js/2.4f057907.chunk.js.map",
+    "index.html": "/CamReactPortfolio/index.html",
+    "precache-manifest.e72fed99437fc7f817e3d5e984371cbe.js": "/CamReactPortfolio/precache-manifest.e72fed99437fc7f817e3d5e984371cbe.js",
+    "service-worker.js": "/CamReactPortfolio/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/CamReactPortfolio/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/CamReactPortfolio/static/media/logo.5d5d9eef.svg"
+  }
+}
