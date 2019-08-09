@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/cwright2733/CamReactPortfolio/issues"
   },
-  "homepage": "https://github.com/cwright2733/CamReactPortfolio#readme"
+  "homepage": "https://github.com/cwright2733/CamReactPortfolio#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1"
+  }
 }
