@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import plogo from '../src/images/pinterest-logo.png'
 
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -22,8 +23,10 @@ class App extends Component {
 
          
 <div class="sidenav">
+    <img src={plogo} alt="Portlogo" />
+  <h3 style={header3}>Cameron Wright Portfolio</h3>
+      
 
-  <h3 style={header3}>Cameron Wright</h3>
 
         <div class="position"> 
   <ul>
@@ -33,6 +36,8 @@ class App extends Component {
   </ul>
 
   </div>
+
+  
 
 
 </div>

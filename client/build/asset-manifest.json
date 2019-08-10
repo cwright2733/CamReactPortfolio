@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/CamReactPortfolio/static/css/main.2cce8147.chunk.css",
-    "main.js": "/CamReactPortfolio/static/js/main.d9ed891b.chunk.js",
-    "main.js.map": "/CamReactPortfolio/static/js/main.d9ed891b.chunk.js.map",
+    "main.css": "/CamReactPortfolio/static/css/main.ea9dd844.chunk.css",
+    "main.js": "/CamReactPortfolio/static/js/main.2e6fc1d1.chunk.js",
+    "main.js.map": "/CamReactPortfolio/static/js/main.2e6fc1d1.chunk.js.map",
     "runtime~main.js": "/CamReactPortfolio/static/js/runtime~main.ae35cbd7.js",
     "runtime~main.js.map": "/CamReactPortfolio/static/js/runtime~main.ae35cbd7.js.map",
-    "static/js/2.4f057907.chunk.js": "/CamReactPortfolio/static/js/2.4f057907.chunk.js",
-    "static/js/2.4f057907.chunk.js.map": "/CamReactPortfolio/static/js/2.4f057907.chunk.js.map",
+    "static/css/2.d7a94725.chunk.css": "/CamReactPortfolio/static/css/2.d7a94725.chunk.css",
+    "static/js/2.0d566601.chunk.js": "/CamReactPortfolio/static/js/2.0d566601.chunk.js",
+    "static/js/2.0d566601.chunk.js.map": "/CamReactPortfolio/static/js/2.0d566601.chunk.js.map",
     "index.html": "/CamReactPortfolio/index.html",
-    "precache-manifest.e72fed99437fc7f817e3d5e984371cbe.js": "/CamReactPortfolio/precache-manifest.e72fed99437fc7f817e3d5e984371cbe.js",
+    "precache-manifest.d249bcfef410baf8c32aea7818897193.js": "/CamReactPortfolio/precache-manifest.d249bcfef410baf8c32aea7818897193.js",
     "service-worker.js": "/CamReactPortfolio/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/CamReactPortfolio/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/CamReactPortfolio/static/media/logo.5d5d9eef.svg"
+    "static/css/2.d7a94725.chunk.css.map": "/CamReactPortfolio/static/css/2.d7a94725.chunk.css.map",
+    "static/css/main.ea9dd844.chunk.css.map": "/CamReactPortfolio/static/css/main.ea9dd844.chunk.css.map",
+    "static/media/App.css": "/CamReactPortfolio/static/media/chmyphotography-713105-unsplash.317413e4.jpg"
   }
 }
