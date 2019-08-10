@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CamReactPortfolio/precache-manifest.d249bcfef410baf8c32aea7818897193.js"
+  "/CamReactPortfolio/precache-manifest.83df3e304e63390237603ac27905a026.js"
 );
 
 self.addEventListener('message', (event) => {
