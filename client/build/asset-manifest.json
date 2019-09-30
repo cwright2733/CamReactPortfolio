@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/CamReactPortfolio/static/css/main.ea9dd844.chunk.css",
-    "main.js": "/CamReactPortfolio/static/js/main.2e6fc1d1.chunk.js",
-    "main.js.map": "/CamReactPortfolio/static/js/main.2e6fc1d1.chunk.js.map",
+    "main.css": "/CamReactPortfolio/static/css/main.e10956a8.chunk.css",
+    "main.js": "/CamReactPortfolio/static/js/main.a11d1c86.chunk.js",
+    "main.js.map": "/CamReactPortfolio/static/js/main.a11d1c86.chunk.js.map",
     "runtime~main.js": "/CamReactPortfolio/static/js/runtime~main.ae35cbd7.js",
     "runtime~main.js.map": "/CamReactPortfolio/static/js/runtime~main.ae35cbd7.js.map",
     "static/css/2.d7a94725.chunk.css": "/CamReactPortfolio/static/css/2.d7a94725.chunk.css",
-    "static/js/2.0d566601.chunk.js": "/CamReactPortfolio/static/js/2.0d566601.chunk.js",
-    "static/js/2.0d566601.chunk.js.map": "/CamReactPortfolio/static/js/2.0d566601.chunk.js.map",
+    "static/js/2.b60536a7.chunk.js": "/CamReactPortfolio/static/js/2.b60536a7.chunk.js",
+    "static/js/2.b60536a7.chunk.js.map": "/CamReactPortfolio/static/js/2.b60536a7.chunk.js.map",
     "index.html": "/CamReactPortfolio/index.html",
-    "precache-manifest.d249bcfef410baf8c32aea7818897193.js": "/CamReactPortfolio/precache-manifest.d249bcfef410baf8c32aea7818897193.js",
+    "precache-manifest.83df3e304e63390237603ac27905a026.js": "/CamReactPortfolio/precache-manifest.83df3e304e63390237603ac27905a026.js",
     "service-worker.js": "/CamReactPortfolio/service-worker.js",
     "static/css/2.d7a94725.chunk.css.map": "/CamReactPortfolio/static/css/2.d7a94725.chunk.css.map",
-    "static/css/main.ea9dd844.chunk.css.map": "/CamReactPortfolio/static/css/main.ea9dd844.chunk.css.map",
-    "static/media/App.css": "/CamReactPortfolio/static/media/chmyphotography-713105-unsplash.317413e4.jpg"
+    "static/css/main.e10956a8.chunk.css.map": "/CamReactPortfolio/static/css/main.e10956a8.chunk.css.map",
+    "static/media/App.css": "/CamReactPortfolio/static/media/chmyphotography-713105-unsplash.317413e4.jpg",
+    "static/media/pinterest-logo.png": "/CamReactPortfolio/static/media/pinterest-logo.65d628c2.png"
   }
 }
